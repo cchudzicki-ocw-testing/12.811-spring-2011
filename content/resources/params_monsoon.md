@@ -3,7 +3,12 @@ content_type: resource
 description: New file Upload
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-811-tropical-meteorology-spring-2011/c76ee0c6cfef5633aeee9c5941c22a82_params_monsoon.in
 file_type: application/octet-stream
+learning_resource_types:
+- Tools
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Other
 title: params_monsoon.in
+type: OCWFile
 uid: c76ee0c6-cfef-5633-aeee-9c5941c22a82
 ---

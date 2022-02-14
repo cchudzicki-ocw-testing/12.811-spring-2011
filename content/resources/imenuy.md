@@ -3,7 +3,12 @@ content_type: resource
 description: New file Upload
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-811-tropical-meteorology-spring-2011/3b51876d1abade87ab432031c625093c_imenuy.m
 file_type: text/x-objcsrc
+learning_resource_types:
+- Tools
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Other
 title: imenuy.m
+type: OCWFile
 uid: 3b51876d-1aba-de87-ab43-2031c625093c
 ---
