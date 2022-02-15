@@ -5,6 +5,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-811-tropi
 file_type: text/x-fortran
 learning_resource_types:
 - Tools
+ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
