@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Document
 title: MIT12_811S11_users_guide.pdf
-type: OCWFile
 uid: 79ba8825-5a91-3b60-7b8d-4a27e5cb3cca
 ---

@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: YOETHF.h
-type: OCWFile
 uid: db57734e-7fae-a342-29f1-b18e273f58f4
 ---

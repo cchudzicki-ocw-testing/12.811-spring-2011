@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: rcnewrad64.zip
-type: OCWFile
 uid: 78a10c64-d652-dfad-de22-761afe851cf9
 ---

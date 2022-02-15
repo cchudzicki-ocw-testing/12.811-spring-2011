@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: skewt.m
-type: OCWFile
 uid: e6244fc6-93c9-28fe-fa57-193e3aded32f
 ---

@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: wyoming.f
-type: OCWFile
 uid: 4d448132-113f-db89-040c-e99de81bcf4a
 ---

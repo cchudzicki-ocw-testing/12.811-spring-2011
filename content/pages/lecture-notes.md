@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 title: Lecture Notes
-type: CourseSection
 uid: 23fdcd6b-0082-ba44-012a-bd304810dc02
 ---
 

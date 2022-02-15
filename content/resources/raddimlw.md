@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: raddimlw.h
-type: OCWFile
 uid: 84f00d6b-3951-9922-45c3-186ce2a88c4a
 ---

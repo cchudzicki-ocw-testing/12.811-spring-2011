@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: radopt.h
-type: OCWFile
 uid: b512142a-4478-f4d6-0328-8d661848ab15
 ---

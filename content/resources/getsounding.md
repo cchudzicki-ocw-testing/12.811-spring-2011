@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: getsounding.m
-type: OCWFile
 uid: 17382f73-5e5c-57e4-7502-3a0f6742fcdc
 ---

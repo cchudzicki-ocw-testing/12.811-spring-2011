@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Document
 title: MIT12_811S11_modeldes.pdf
-type: OCWFile
 uid: 7604d559-80a3-da4b-cbbd-d23432b92966
 ---

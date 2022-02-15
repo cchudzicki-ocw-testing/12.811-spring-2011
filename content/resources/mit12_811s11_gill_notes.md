@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Document
 title: MIT12_811S11_gill_notes.pdf
-type: OCWFile
 uid: 6701b5d6-b515-9b06-c2a3-89fcaae11d70
 ---

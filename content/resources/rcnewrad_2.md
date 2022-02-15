@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: rcnewrad_2.f
-type: OCWFile
 uid: bbfca69e-72f8-c31e-dcb2-9184616e73eb
 ---

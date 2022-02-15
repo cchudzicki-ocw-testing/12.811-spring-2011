@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: run_model_2.m
-type: OCWFile
 uid: 1201e5a2-89ab-b5dc-ca5f-fad353faf44d
 ---

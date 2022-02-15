@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: MIT12_811S11_ENSO.pdf
-type: OCWFile
 uid: cd792ded-92e3-2376-ea9a-c5f99d0aff8f
 ---

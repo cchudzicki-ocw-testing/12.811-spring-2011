@@ -13,6 +13,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Image
 title: mac.png
-type: OCWImage
 uid: 3856459d-c916-2110-7601-efcdbd458bb5
 ---

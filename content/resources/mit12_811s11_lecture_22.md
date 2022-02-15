@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: MIT12_811S11_lecture_22.pdf
-type: OCWFile
 uid: fed47d59-3b0f-7cae-236d-cb86e33fb354
 ---

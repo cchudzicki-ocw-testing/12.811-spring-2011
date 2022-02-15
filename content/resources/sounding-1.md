@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: sounding.std
-type: OCWFile
 uid: aa55293f-67cf-a681-3c79-f5c2ff1be7a2
 ---

@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: write_sounding_in.m
-type: OCWFile
 uid: 41aa0449-99f5-db84-99a5-1ce6d377758d
 ---

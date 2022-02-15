@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: maps.m
-type: OCWFile
 uid: 344f0c67-54c0-491e-6837-833f839936cd
 ---

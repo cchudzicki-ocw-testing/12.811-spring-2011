@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: hurrplot.m
-type: OCWFile
 uid: b31001c2-4211-2c12-407e-155e2753f52a
 ---

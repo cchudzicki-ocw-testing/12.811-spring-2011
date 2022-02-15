@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: profile_2.out
-type: OCWFile
 uid: 8bbd4b50-85da-db91-9334-ab331af2e859
 ---

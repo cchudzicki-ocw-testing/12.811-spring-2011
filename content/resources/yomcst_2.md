@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: YOMCST_2.h
-type: OCWFile
 uid: d35bce63-9ae4-e37e-bd4c-19be97d8ee0f
 ---

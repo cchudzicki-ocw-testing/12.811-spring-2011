@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Document
 title: MIT12_811S11_gill_help.pdf
-type: OCWFile
 uid: 8cdcb04e-8b2f-10df-5324-8f27f48864c9
 ---

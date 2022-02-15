@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: TwoD.f
-type: OCWFile
 uid: d100da91-9511-1062-b887-d11e24715d28
 ---

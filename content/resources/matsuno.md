@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: matsuno.m
-type: OCWFile
 uid: a173444b-4ab3-5bcf-53aa-60add3aeba47
 ---

@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: radepsi.h
-type: OCWFile
 uid: d5a5a700-f48c-67b0-6415-b76c6dd7e9ac
 ---

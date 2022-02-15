@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: imenuy.m
-type: OCWFile
 uid: 3b51876d-1aba-de87-ab43-2031c625093c
 ---

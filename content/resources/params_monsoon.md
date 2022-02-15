@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: params_monsoon.in
-type: OCWFile
 uid: c76ee0c6-cfef-5633-aeee-9c5941c22a82
 ---

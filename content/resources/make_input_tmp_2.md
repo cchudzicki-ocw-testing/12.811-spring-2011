@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: make_input_tmp_2.m
-type: OCWFile
 uid: 11ad931d-9768-f8d0-95e1-167e232904db
 ---

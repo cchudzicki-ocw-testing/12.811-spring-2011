@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: rcmenu_2.m
-type: OCWFile
 uid: 9a22031a-4777-a384-9ab8-8bfab413ec70
 ---

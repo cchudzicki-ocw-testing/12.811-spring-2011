@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: dimphy_2.h
-type: OCWFile
 uid: fcc973f9-25b3-9b2d-b5cf-fc3f18f41b1d
 ---

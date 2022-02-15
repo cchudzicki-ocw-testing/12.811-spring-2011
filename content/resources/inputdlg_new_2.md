@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: inputdlg_new_2.m
-type: OCWFile
 uid: 13179d56-1719-0e08-0fba-8497789a214c
 ---

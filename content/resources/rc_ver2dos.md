@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: rc_ver2dos.exe
-type: OCWFile
 uid: 0958226a-4b3c-9148-b240-6cc1512ca03f
 ---

@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: sounding.in.matlab
-type: OCWFile
 uid: 43235b55-ba5d-e447-5baf-8fd11583a890
 ---

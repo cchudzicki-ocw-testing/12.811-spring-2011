@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: dimensions.h
-type: OCWFile
 uid: 0147169c-7dea-7dd4-eb07-2dfe25f4e2b8
 ---

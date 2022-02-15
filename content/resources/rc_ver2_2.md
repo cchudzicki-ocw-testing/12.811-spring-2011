@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: rc_ver2_2.f
-type: OCWFile
 uid: 19b46f56-99f0-ccbd-6992-9c112a96e57e
 ---

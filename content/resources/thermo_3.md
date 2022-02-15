@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: thermo_3.h
-type: OCWFile
 uid: 66423595-bb10-08f3-511c-e39c1f1f7f80
 ---

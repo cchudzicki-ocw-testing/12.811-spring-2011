@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: spectrum.m
-type: OCWFile
 uid: cbb19327-44fa-07fc-9d66-0d612d057903
 ---

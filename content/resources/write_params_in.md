@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: write_params_in.m
-type: OCWFile
 uid: 45ab8528-d81c-fee5-3505-8d375b7fc19a
 ---

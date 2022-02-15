@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: get_parameters_2.m
-type: OCWFile
 uid: 9613038e-8a88-2a63-f564-e6ca6a12b3d4
 ---

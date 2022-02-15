@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: glue_2.m
-type: OCWFile
 uid: 55e5d2a3-8aff-455d-1b22-d1fba33f1720
 ---
