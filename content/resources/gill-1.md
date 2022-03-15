@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: gill.f
 uid: acd8b521-fa39-dad9-27c0-5b739fa1e26e
+video_metadata:
+  youtube_id: null
 ---

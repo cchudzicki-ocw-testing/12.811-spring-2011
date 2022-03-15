@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: thermo_3.h
 uid: 66423595-bb10-08f3-511c-e39c1f1f7f80
+video_metadata:
+  youtube_id: null
 ---

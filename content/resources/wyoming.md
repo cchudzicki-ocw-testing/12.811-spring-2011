@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: wyoming.f
 uid: 4d448132-113f-db89-040c-e99de81bcf4a
+video_metadata:
+  youtube_id: null
 ---

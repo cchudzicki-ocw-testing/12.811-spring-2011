@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: spectrum.m
 uid: cbb19327-44fa-07fc-9d66-0d612d057903
+video_metadata:
+  youtube_id: null
 ---

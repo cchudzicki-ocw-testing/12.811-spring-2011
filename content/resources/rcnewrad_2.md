@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: rcnewrad_2.f
 uid: bbfca69e-72f8-c31e-dcb2-9184616e73eb
+video_metadata:
+  youtube_id: null
 ---

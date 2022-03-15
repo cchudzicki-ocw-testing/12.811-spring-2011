@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: sounding_2.out
 uid: f0f063cb-b797-e7f4-7ab8-63189dc40da9
+video_metadata:
+  youtube_id: null
 ---

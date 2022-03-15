@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: The Walker Circulation
 uid: 6b58d11e-676a-44a1-628d-199f727fdff4
+video_metadata:
+  youtube_id: null
 ---

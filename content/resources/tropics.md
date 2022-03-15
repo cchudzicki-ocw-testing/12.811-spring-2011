@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: tropics.f
 uid: 1c69f5f5-f98d-6311-243f-4bb4ea38ff34
+video_metadata:
+  youtube_id: null
 ---

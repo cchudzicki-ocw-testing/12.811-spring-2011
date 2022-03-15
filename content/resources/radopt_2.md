@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: radopt_2.h
 uid: dd8eb9b2-8296-3d20-3e04-925f87d42f3f
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: matsuno.m
 uid: a173444b-4ab3-5bcf-53aa-60add3aeba47
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT12_811S11_instructions.pdf
 uid: b11e552d-3beb-b800-d8a3-bab57f0f477b
+video_metadata:
+  youtube_id: null
 ---

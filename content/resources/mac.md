@@ -15,4 +15,6 @@ parent_type: CourseSection
 resourcetype: Image
 title: mac.png
 uid: 3856459d-c916-2110-7601-efcdbd458bb5
+video_metadata:
+  youtube_id: null
 ---

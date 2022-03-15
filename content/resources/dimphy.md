@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: dimphy.h
 uid: 15a1bc0f-0efe-fe79-6bf5-6f049d5d83c1
+video_metadata:
+  youtube_id: null
 ---

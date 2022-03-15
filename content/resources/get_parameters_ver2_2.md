@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: get_parameters_ver2_2.m
 uid: 6b4e56fc-df93-49f9-6792-73d351eb64df
+video_metadata:
+  youtube_id: null
 ---

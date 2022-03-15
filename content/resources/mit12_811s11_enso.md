@@ -12,4 +12,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT12_811S11_ENSO.pdf
 uid: cd792ded-92e3-2376-ea9a-c5f99d0aff8f
+video_metadata:
+  youtube_id: null
 ---

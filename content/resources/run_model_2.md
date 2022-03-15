@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: run_model_2.m
 uid: 1201e5a2-89ab-b5dc-ca5f-fad353faf44d
+video_metadata:
+  youtube_id: null
 ---

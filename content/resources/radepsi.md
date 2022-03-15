@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: radepsi.h
 uid: d5a5a700-f48c-67b0-6415-b76c6dd7e9ac
+video_metadata:
+  youtube_id: null
 ---

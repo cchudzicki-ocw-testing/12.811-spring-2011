@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: hurrplot.m
 uid: b31001c2-4211-2c12-407e-155e2753f52a
+video_metadata:
+  youtube_id: null
 ---

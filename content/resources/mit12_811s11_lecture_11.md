@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT12_811S11_lecture_11.pdf
 uid: 5bfc6223-3666-83d5-dc0a-e1425c0299e4
+video_metadata:
+  youtube_id: null
 ---

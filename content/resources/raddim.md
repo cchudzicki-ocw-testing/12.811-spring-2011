@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: raddim.h
 uid: d31c89e3-221e-cce4-4f0d-cab27bff4645
+video_metadata:
+  youtube_id: null
 ---

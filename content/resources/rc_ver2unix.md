@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: rc_ver2unix.zip
 uid: 6a01174e-5e82-c3d4-84ab-f470575ec108
+video_metadata:
+  youtube_id: null
 ---

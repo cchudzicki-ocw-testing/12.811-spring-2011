@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: TwoD.f
 uid: d100da91-9511-1062-b887-d11e24715d28
+video_metadata:
+  youtube_id: null
 ---

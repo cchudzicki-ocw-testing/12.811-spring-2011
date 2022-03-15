@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: params_monsoon.in
 uid: c76ee0c6-cfef-5633-aeee-9c5941c22a82
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: rcm_2.m
 uid: 8e828802-0b73-4299-cad2-21ac28f5e7e6
+video_metadata:
+  youtube_id: null
 ---

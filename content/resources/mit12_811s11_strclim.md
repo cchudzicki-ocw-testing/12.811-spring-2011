@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT12_811S11_StrClim.pdf
 uid: 1644495b-e287-fce8-4dbb-91c317908d26
+video_metadata:
+  youtube_id: null
 ---

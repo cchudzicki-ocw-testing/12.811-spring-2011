@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT12_811S11_tool_7_readme.pdf
 uid: 52504627-0536-9efd-3bdc-df1c89ca8854
+video_metadata:
+  youtube_id: null
 ---

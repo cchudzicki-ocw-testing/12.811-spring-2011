@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 23fdcd6b-0082-ba44-012a-bd304810dc02
+video_metadata:
+  youtube_id: null
 ---
 
 The lecture notes below represent the content taught in the Fall 2011 version of this class and are organized by chapters. Content from previous versions of this class are also included for further study (denoted by an asterisk).

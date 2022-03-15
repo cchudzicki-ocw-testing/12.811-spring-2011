@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: hurr.f
 uid: c1c6f55c-2561-b894-7cec-109a9c4f5f66
+video_metadata:
+  youtube_id: null
 ---

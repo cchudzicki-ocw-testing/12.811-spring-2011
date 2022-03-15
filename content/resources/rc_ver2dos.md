@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: rc_ver2dos.exe
 uid: 0958226a-4b3c-9148-b240-6cc1512ca03f
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: rcmenu2_2.m
 uid: f6a5508f-1e33-4c76-2c78-906d92ea11d9
+video_metadata:
+  youtube_id: null
 ---

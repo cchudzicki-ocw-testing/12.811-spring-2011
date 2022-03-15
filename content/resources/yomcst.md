@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: YOMCST.h
 uid: 2bc6cd93-b4de-d3ad-1df2-d7723afaa652
+video_metadata:
+  youtube_id: null
 ---

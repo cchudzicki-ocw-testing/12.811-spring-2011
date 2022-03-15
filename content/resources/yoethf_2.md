@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Other
 title: YOETHF_2.h
 uid: 2d629667-738b-fc8a-97dd-b102599e8efc
+video_metadata:
+  youtube_id: null
 ---
