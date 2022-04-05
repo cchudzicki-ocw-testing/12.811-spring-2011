@@ -98,19 +98,19 @@ Matsuno.m ({{% resource_link a173444b-4ab3-5bcf-53aa-60add3aeba47 "M" %}})
 Notes on the Gill Model ({{% resource_link 6701b5d6-b515-9b06-c2a3-89fcaae11d70 "PDF" %}})  
 Help File ({{% resource_link 8cdcb04e-8b2f-10df-5324-8f27f48864c9 "PDF" %}})  
 gill.f ({{% resource_link acd8b521-fa39-dad9-27c0-5b739fa1e26e "F" %}})  
-gill\_params.txt ([TXT](./resolveuid/b82034a7af8a23fb5d75264d52225029))  
+gill\_params.txt ({{% resource_link "b82034a7-af8a-23fb-5d75-264d52225029" "TXT" %}})  
 gill.m ({{% resource_link d9dac74a-cb2f-5f19-1db8-98c58b2446b9 "M" %}})
 
 ### Notes, FORTRAN program, and MATLAB script for reduced model of the Tropics
 
 Notes on the Model ({{% resource_link 7604d559-80a3-da4b-cbbd-d23432b92966 "PDF" %}})  
 tropics.f ({{% resource_link 1c69f5f5-f98d-6311-243f-4bb4ea38ff34 "F" %}})  
-input.txt ([TXT](./resolveuid/9673e8eafd3b5170499e3ad68bbffb79))  
+input.txt ({{% resource_link "9673e8ea-fd3b-5170-499e-3ad68bbffb79" "TXT" %}})  
 maps.m ({{% resource_link 344f0c67-54c0-491e-6837-833f839936cd "M" %}})
 
 ### Notes, FORTRAN program, and MATLAB script for simple coupled hurricane model
 
 Readme File ({{% resource_link 52504627-0536-9efd-3bdc-df1c89ca8854 "PDF" %}})  
 hurr.f ({{% resource_link c1c6f55c-2561-b894-7cec-109a9c4f5f66 "F" %}})  
-hurrparams.txt ([TXT](./resolveuid/608b527c28a6e63e91792f9da4a3a556))  
+hurrparams.txt ({{% resource_link "608b527c-28a6-e63e-9179-2f9da4a3a556" "TXT" %}})  
 hurrplot.m ({{% resource_link b31001c2-4211-2c12-407e-155e2753f52a "M" %}})
