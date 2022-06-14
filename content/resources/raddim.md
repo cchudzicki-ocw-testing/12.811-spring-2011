@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-811-tropical-meteorology-spring-2011/d31c89e3221ecce44f0dcab27bff4645_raddim.h
+file: /courses/12-811-tropical-meteorology-spring-2011/d31c89e3221ecce44f0dcab27bff4645_raddim.h
 file_type: text/x-chdr
 learning_resource_types:
 - Tools
@@ -15,3 +15,4 @@ uid: d31c89e3-221e-cce4-4f0d-cab27bff4645
 video_metadata:
   youtube_id: null
 ---
+New file Upload

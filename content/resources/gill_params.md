@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-811-tropical-meteorology-spring-2011/b82034a7af8a23fb5d75264d52225029_gill_params.txt
+file: /courses/12-811-tropical-meteorology-spring-2011/b82034a7af8a23fb5d75264d52225029_gill_params.txt
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,4 @@ resourcetype: Other
 title: gill_params.txt
 uid: b82034a7-af8a-23fb-5d75-264d52225029
 ---
+New file Upload

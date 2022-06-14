@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Upload
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/12-811-tropical-meteorology-spring-2011/9673e8eafd3b5170499e3ad68bbffb79_input.txt
+file: /courses/12-811-tropical-meteorology-spring-2011/9673e8eafd3b5170499e3ad68bbffb79_input.txt
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,4 @@ resourcetype: Other
 title: input.txt
 uid: 9673e8ea-fd3b-5170-499e-3ad68bbffb79
 ---
+New file Upload
