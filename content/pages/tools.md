@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes software used in this course.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "This section provides a list of references on Hadley circulation, convection,\
+  \ monsoons, intraseasonal variability, El Ni\xF1o/southern oscillation, easterly\
+  \ waves, and tropical cyclones."
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

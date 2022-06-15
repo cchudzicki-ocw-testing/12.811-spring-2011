@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides suggested topics for the term paper of the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
