@@ -5,6 +5,7 @@ file: /courses/12-811-tropical-meteorology-spring-2011/aa55293f67cfa6813c79f5c2f
 file_type: application/vnd.sun.xml.draw.template
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection

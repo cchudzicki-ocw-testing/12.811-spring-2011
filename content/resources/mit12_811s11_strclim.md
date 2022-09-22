@@ -5,6 +5,7 @@ file: /courses/12-811-tropical-meteorology-spring-2011/1644495be287fce84dbb91c31
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

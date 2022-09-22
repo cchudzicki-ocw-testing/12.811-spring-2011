@@ -5,6 +5,7 @@ file: /courses/12-811-tropical-meteorology-spring-2011/8e8288020b734299cad221ac2
 file_type: text/x-objcsrc
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
